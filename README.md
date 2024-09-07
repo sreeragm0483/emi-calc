@@ -135,3 +135,15 @@ checkout for development [URL](https://localhost:80/api/v1)
 
 ## Postman 
 [Screenshots](https://drive.google.com/drive/folders/1kbZlL4l99jiauDahr4uK8rDAUPRJrfyQ)
+
+
+## Project Tasks
+
+### Completed
+- [x] Implemented API endpoints:
+  - [x] GET /emis
+  - [x] GET /emis/calculate-emi-flow
+  - [x] GET /emis/{id}
+- [x] Set up Nginx with Docker
+- [x] Configured PostgreSQL database
+- [x] Implemented pagination for endpoints
