@@ -27,7 +27,8 @@ This project implements a REST API for an EMI (Equated Monthly Installment) calc
     ```
 
 
-checkout for development
+checkout for development [URL](https://localhost:80/api/v1)
+
 
 
 
