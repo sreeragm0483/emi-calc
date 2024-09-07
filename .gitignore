@@ -1,0 +1,71 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# Build
+public/css/main.css
+
+# Coverage reports
+coverage
+
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+bower_components
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
+
+script.py
+yarn.lock
+scripts
+
+
+src/uploads/*.jpg 
+src/uploads/*.png 
+src/uploads/*.jpeg
+src/uploads/*.gif
+src/uploads/*.svg
+src/uploads/*.pdf
+src/uploads/*.doc
+src/uploads/*.docx
+src/uploads/*.xls
+src/uploads/*.xlsx
+src/uploads/*.ppt
+src/uploads/*.pptx
+src/uploads/*.txt
+src/uploads/*.csv
+src/uploads/*.zip
+src/uploads/*.rar
+src/uploads/*.webp
+src/uploads/*.json
+firebase-config.json
+
+
+.env.development
+.env.production
+.env.local
+mockdata
+*csv
+mock
