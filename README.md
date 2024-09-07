@@ -23,7 +23,7 @@ This project implements a REST API for an EMI (Equated Monthly Installment) calc
 
 2. Run application with docker
     ```
-        docker-compose up 
+    docker-compose up 
     ```
 
 
@@ -132,3 +132,5 @@ checkout for development
 }
 ```
 
+## Postman 
+[Screenshots](https://drive.google.com/drive/folders/1kbZlL4l99jiauDahr4uK8rDAUPRJrfyQ)
